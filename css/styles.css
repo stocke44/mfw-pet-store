@@ -21,3 +21,14 @@ header h1{
     border: 5px solid rgb(252,252,252);
 
 }
+
+footer {
+
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #eeddcd;
+    color: black;
+    text-align: center;
+    margin-top:70px;
+  }
