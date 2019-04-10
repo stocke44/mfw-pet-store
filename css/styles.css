@@ -1,0 +1,34 @@
+@import url(http://fonts.googleapis.com/css?family=Satisfy|Open+Sans);
+/* HEADER Section */
+.logo{
+    width: 85px;
+}
+
+header h1{
+    color:#c9c983;
+    font-family: 'Satisfy', cursive;
+    margin-top: 20px;
+}
+.jumbotron{
+    background-image: url("../img/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    height:450px;
+}
+.product{
+    background-color: #eeddcd;
+    border-radius: 5%;
+    border: 5px solid rgb(252,252,252);
+
+}
+
+footer {
+
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #eeddcd;
+    color: black;
+    text-align: center;
+    margin-top:70px;
+  }
